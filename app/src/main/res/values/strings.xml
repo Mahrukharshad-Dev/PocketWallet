@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PocketWallet</string>
+    <string name="header_subtitle">Your pocket currency converter</string>
+    <string name="you_send">You send</string>
+    <string name="you_receive">You receive</string>
+    <string name="enter_amount">Amount</string>
+    <string name="converted_amount">Result</string>
+    <string name="convert">Convert now</string>
+    <string name="exchange_rate_info">Exchange rate: 1 GBP = 354.44 PKR</string>
+    <string name="last_updated">Last updated: Never</string>
+    <string name="last_updated_live">Last updated: %s (Live)</string>
+    <string name="last_updated_cached">Last updated: %s (Cached)</string>
+    <string name="offline_mode">Offline mode (Using cached rates)</string>
+    <string name="history_title">Recent conversions</string>
+    <string name="clear_history">Clear History</string>
+    <string name="fetching_rates">Fetching rates…</string>
+    <string name="swap_currencies">Swap currencies</string>
+    <string name="no_recent_conversions">Nothing converted yet</string>
+    <string name="validation_error">Enter a valid amount to convert</string>
+</resources>
